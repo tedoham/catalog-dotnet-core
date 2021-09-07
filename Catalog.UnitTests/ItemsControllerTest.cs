@@ -61,6 +61,8 @@ namespace Catalog.UnitTests
             // Assert.Equal(expectedItem.Id, dto.Id);
             // Assert.Equal(expectedItem.Name, dto.Name);
             // Assert.Equal(expectedItem.Price, dto.Price);
+            // Assert.Equal(expectedItem.CreatedDate, dto.CreatedDate);
+            
         }
 
          [Fact]
